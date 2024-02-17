@@ -1,0 +1,11 @@
+﻿1 - Se copia la base de datos que hay que transformar en C:\  y se cambia el nombre a 123456
+    tal que así C:\123456.MDB 
+2 - Se crea una empresa nueva con la versión 20XX. Solo hay que rellenar los datos de la empresa.
+    La base de datos ha de estar completamente vacía.(Importantísimo que esté vacía).
+    La copiamos y pegamos en C:\ y le cambiamos el nombre para evitar líos y que la reconozca
+    el programa.
+3 - Cambiamos el nombre a 789987, tal que así C:\789987.accdb
+4 - Usar el programa.(Es coveniente saber algo de Access, el tema formularios).
+5 - Ir a C:\Software DELSOL\CONTASOL\Datos\CS y eliminar la empresa creada.
+6 - Copiar y pegar 789987.accdb en C:\Software DELSOL\CONTASOL\Datos\CS y renombrar
+    por el nombre con que creamos la empresa eliminada anteriormente.
